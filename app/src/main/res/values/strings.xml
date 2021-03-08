@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Exotic Video Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="track_selection_title">Select tracks</string>
+    <string name="error_generic">Playback failed</string>
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+    <string name="error_no_decoder">This device does not provide a decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+    <string name="error_instantiating_decoder">Unable to instantiate decoder <xliff:g id="decoder_name">%1$s</xliff:g></string>
+
+
+    <string name="dash_video">https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-ttml.ism/.mpd</string>
+    <string name="hls_video">https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-multiple-subtitles.ism/.m3u8</string>
+    <string name="about">About</string>
+    <string name="description">In the four years since Game of Thrones premiered, phrases like "winter is coming" and "valar morghulis" have entered the American lexicon, leaving fans eager for the Sunday-night show full of backstabbing, bloodletting, and fiery dragons. The fifth season is currently showing on HBO. Whether you need a refresher on the insanity of the last three seasons, or havent seen a single episode and missed every battle, weve got you covered. Read along to prepare yourself for the Iron Throne. Game of Thrones is an HBO series that tells the story of a medieval countrys civil war. The series, which premiered in April 2011, is set on the fictional continents of Westeros and Essos in a world where seasons stretch on for years. When the story begins, a decade-long summer is ending, and winter looms as characters battle to claim the "Iron Throne," the seat of the king of the Seven Kingdoms, the regime that rules all but the northern tip of Westeros."</string>
+
+</resources>
